@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Liste pâtisseries</string>
+
+    <string name="bouton_retour">Retour</string>
+
+    <string name="pain_choco_detail">"Le pain au chocolat, aussi appelé chocolatine, couque au chocolat, croissant au chocolat ou encore petit pain, est une viennoiserie constituée d'une pâte levée feuilletée, identique à celle du croissant, rectangulaire et enroulée sur une ou plusieurs barres de chocolat. "</string>
+
+    <string name="eclair_detail">"Un éclair, anciennement appelé pain à la duchesse (avant 1850) ou petite duchesse, est une pâtisserie d'origine française constituée de pâte à choux allongée et fourrée de crème au chocolat, avec un glaçage sur le dessus. "</string>
+
+    <string name="tartelette_detail">"Une tartelette (déclinaison réduite d'une tarte pour un seul consommateur) est un plat culinaire, constitué d'une pâte servant de support à une garniture qui peut être sucrée ou salée.
+    Le substantif féminin « tartelette » (prononcé [taʀtəlεt]) est, comme tartine, un diminutif de « tarte »."</string>
+
+    <string name="tarte_citr_detail">"La tarte au citron est une tarte sucrée garnie de crème à base de citron.
+    Elle ne comprend aucun fruit. La crème est un mélange d'œufs, de sucre, de jus de citron et de zeste de citron.
+    Également appelée 'lemon curd', c'est cette crème qui donne à la tarte son goût.
+    La tarte au citron est souvent complétée par une meringue et devient alors une tarte au citron meringuée. "</string>
+
+    <string name="croissant_detail">"Un croissant est une viennoiserie à base d'une pâte levée feuilletée spécifique, la pâte à croissant, qui comporte de la levure et une proportion importante de beurre. "</string>
+
+    <string name="cheesecake_detail">"Le cheesecake, ou cheese-cake1, gâteau au fromage au Canada francophone, est une variété nord-américaine de gâteau au fromage.
+    C'est un dessert sucré composé d'un mélange de fromage à la crème, d'œufs, de sucre et de parfums de vanille et/ou de citron, sur une croûte de miettes de biscuits (généralement des biscuits Graham)."</string>
+
+
+</resources>
