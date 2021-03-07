@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Formulaire_Nicolas_Steckel</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="Nom">Nom</string>
+    <string name="prenom">Prénom</string>
+    <string name="mail">E-mail</string>
+    <string name="adresse">Adresse</string>
+    <string name="femme">Femme</string>
+    <string name="homme">Homme</string>
+    <string name="autre">Autre</string>
+    <string name="langages">Langages de programmation :</string>
+    <string name="c">C</string>
+    <string name="java">JAVA</string>
+    <string name="pascal">Pascal</string>
+    <string name="genre">Genre :</string>
+    <string name="genre_recup">Genre :</string>
+    <string name="bouton">Valider</string>
+
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
